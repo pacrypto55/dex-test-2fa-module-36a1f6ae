@@ -3931,6 +3931,21 @@
   resolved "https://registry.npmjs.org/@oxc-project/types/-/types-0.82.3.tgz"
   integrity sha512-6nCUxBnGX0c6qfZW5MaF6/fmu5dHJDMiMPaioKHKs5mi5+8/FHQ7WGjgQIz1zxpmceMYfdIXkOaLYE+ejbuOtA==
 
+"@pacrypto55/privy-2fa@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@pacrypto55/privy-2fa/-/privy-2fa-1.0.0.tgz#db5bdb12b16b32f9757facde0c47c47050c7da54"
+  integrity sha512-JWOXZi5bXCROCqyhtfUikuXlrMSRygtiDVyijzP9GCBoCTIIohNULS87XYT+TAQmh+N7/3zPGpVM9A1AB1zoyQ==
+
+"@pacrypto55/privy-onramp@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@pacrypto55/privy-onramp/-/privy-onramp-1.0.0.tgz#a17b275574fce6fc1fd67972e843bcaa64a7b476"
+  integrity sha512-PGC/kh9Qwpo8oV2Hi5rCkurWbx7lVPhE8Wo/cx34U3zgZ7G1MjMNilc1W4jMNO2rXjkhoHQUY4Pkj93JFW6cwA==
+
+"@pacrypto55/wallet-menu@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@pacrypto55/wallet-menu/-/wallet-menu-1.0.0.tgz#e8cb3defff6819a04d6ce5f42fd41e672f06bef7"
+  integrity sha512-Vrw+Hfp28a7zBKCmQIwJnX8bfC+Hk4NTmeJ/ie8KaKzzWns/7x+0S7rmP70q35edCSkZqUP9zm99hIxlq3dWNQ==
+
 "@particle-network/analytics@^1.0.1":
   version "1.0.2"
   resolved "https://registry.npmjs.org/@particle-network/analytics/-/analytics-1.0.2.tgz"

@@ -1,4 +1,7 @@
 import { ReactNode, useCallback, lazy, Suspense, useMemo } from "react";
+import { registerPrivy2faPlugin } from "@pacrypto55/privy-2fa";
+import { registerPrivyOnrampPlugin } from "@pacrypto55/privy-onramp";
+import { registerWalletMenuPlugin } from "@pacrypto55/wallet-menu";
 import { OrderlyAppProvider } from "@orderly.network/react-app";
 import type { NetworkId } from "@orderly.network/types";
 import { DemoGraduationChecker } from "@/components/DemoGraduationChecker";
@@ -177,6 +180,11 @@ const OrderlyProvider = (props: { children: ReactNode }) => {
           "VITE_RESTRICTED_REGIONS",
         ),
       }}
+      plugins={[
+        registerWalletMenuPlugin(),
+        registerPrivyOnrampPlugin(),
+        registerPrivy2faPlugin(),
+      ]}
     >
       <DemoGraduationChecker />
       <ServiceDisclaimerDialog />
