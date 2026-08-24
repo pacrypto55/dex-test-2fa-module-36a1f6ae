@@ -3931,22 +3931,22 @@
   resolved "https://registry.npmjs.org/@oxc-project/types/-/types-0.82.3.tgz"
   integrity sha512-6nCUxBnGX0c6qfZW5MaF6/fmu5dHJDMiMPaioKHKs5mi5+8/FHQ7WGjgQIz1zxpmceMYfdIXkOaLYE+ejbuOtA==
 
-"@pacrypto55/privy-2fa@^1.0.0":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@pacrypto55/privy-2fa/-/privy-2fa-1.0.3.tgz#06614222733f70eba1a0d040417d8f36cf97939f"
-  integrity sha512-grhje7kPU7Ru25kHUN88GBWUzc/sqNhw+Qce+NpRwhHZmy3jgNf2EnQuJMM0mEl8KTTfwmomePOkbbBS3RmNiA==
+"@pacrypto55/privy-2fa@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@pacrypto55/privy-2fa/-/privy-2fa-1.1.0.tgz#61163b678a18a04c9f50fa014c1d08f745943558"
+  integrity sha512-hT04/UKYNEjXnbyfba423QP9rjvSkaQNwMPDzv7QY1Ajp/ZdDL8GfB30WlFzyEeECGbv6YbKQN6azKmKchunpw==
   dependencies:
     qrcode.react "^4.2.0"
 
-"@pacrypto55/privy-onramp@^1.0.0":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@pacrypto55/privy-onramp/-/privy-onramp-1.0.1.tgz#2dd4f56d31db348620113876208a7402905ebed9"
-  integrity sha512-/7Mr3x6/P5dztOJA54TJRROkvGOuIGZtXfbPnvznbHR+gNEXkhzSXlomOxaQ8RKHPLQyLvGkw6UfrVhjRtXDMA==
+"@pacrypto55/privy-onramp@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@pacrypto55/privy-onramp/-/privy-onramp-1.1.0.tgz#be0e8ebde471c73307f1a185053211f9d4174b76"
+  integrity sha512-TXByEGXpHJGQkELAzV9gyOX9NVZSeYZ7t3XVBIWX4zfw8IdHLREa5GXiCZcmTWoBuMvgfWR5mda+k/PjFhl4FA==
 
-"@pacrypto55/wallet-menu@^1.0.0":
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/@pacrypto55/wallet-menu/-/wallet-menu-1.0.5.tgz#0bf3d5c99e0d13aa69b5db50655832734a9c5c1b"
-  integrity sha512-xue6QbhbyRZvFeQIhDaYCuBuRBetdEg68TPbPiqGRx+Y0vIoK/Rmk+/UBWXD1nrQIB46e3unxHZych2b03vxQA==
+"@pacrypto55/wallet-menu@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@pacrypto55/wallet-menu/-/wallet-menu-1.1.0.tgz#ffa9653549663dd067de4c8db54fbde32d2a2726"
+  integrity sha512-8x5PdkVqD+Z2ahO86ylfZhcaOH1tj+lovNLXsIO5L1W2o9Dt64jAIl7CDXmxYgO3SR+Jd6Pkc236kzLsokdsFA==
 
 "@particle-network/analytics@^1.0.1":
   version "1.0.2"
