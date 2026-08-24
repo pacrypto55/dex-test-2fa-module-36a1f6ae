@@ -3944,9 +3944,9 @@
   integrity sha512-TXByEGXpHJGQkELAzV9gyOX9NVZSeYZ7t3XVBIWX4zfw8IdHLREa5GXiCZcmTWoBuMvgfWR5mda+k/PjFhl4FA==
 
 "@pacrypto55/wallet-menu@^1.1.0":
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/@pacrypto55/wallet-menu/-/wallet-menu-1.1.1.tgz#a2882bd7fab2dbc6dace424cbe915d9f0423845b"
-  integrity sha512-OyzPVYaK/r3/FVE/X5+8aR7xJLjmVWajI9wwQ6TQ6VJHjU4PxYWsVSDb22RON3YixGOUL2QIqrTuK2z+VLqA/w==
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@pacrypto55/wallet-menu/-/wallet-menu-1.1.2.tgz#395374d4f49149ad6b61e0eb549be33965fd6cd5"
+  integrity sha512-0x91iIm3c0b9JCTdfUfoHaDE446h4A3XQpGAnPU84uWTIuu7udDO1G/WvBjV0q7YTTOtiomQ61pybCinB/H7Yw==
 
 "@particle-network/analytics@^1.0.1":
   version "1.0.2"
