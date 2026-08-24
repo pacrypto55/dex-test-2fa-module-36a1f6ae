@@ -3932,9 +3932,11 @@
   integrity sha512-6nCUxBnGX0c6qfZW5MaF6/fmu5dHJDMiMPaioKHKs5mi5+8/FHQ7WGjgQIz1zxpmceMYfdIXkOaLYE+ejbuOtA==
 
 "@pacrypto55/privy-2fa@^1.0.0":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@pacrypto55/privy-2fa/-/privy-2fa-1.0.2.tgz#c7584856ad6fa5945102fa84505afa5d19369f1c"
-  integrity sha512-OJZ8rDMHX5YJCxCnBoecRG6QjIPsQSoh1pGxj+nXUTH0GgSaP0ZAPQo+XIiafFL9u3rK52fEueMw+TdQrO0uZA==
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@pacrypto55/privy-2fa/-/privy-2fa-1.0.3.tgz#06614222733f70eba1a0d040417d8f36cf97939f"
+  integrity sha512-grhje7kPU7Ru25kHUN88GBWUzc/sqNhw+Qce+NpRwhHZmy3jgNf2EnQuJMM0mEl8KTTfwmomePOkbbBS3RmNiA==
+  dependencies:
+    qrcode.react "^4.2.0"
 
 "@pacrypto55/privy-onramp@^1.0.0":
   version "1.0.1"
@@ -14422,6 +14424,11 @@ qrcode.react@^3.1.0:
   version "3.2.0"
   resolved "https://registry.npmjs.org/qrcode.react/-/qrcode.react-3.2.0.tgz"
   integrity sha512-YietHHltOHA4+l5na1srdaMx4sVSOjV9tamHs+mwiLWAMr6QVACRUw1Neax5CptFILcNoITctJY0Ipyn5enQ8g==
+
+qrcode.react@^4.2.0:
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/qrcode.react/-/qrcode.react-4.2.0.tgz#1bce8363f348197d145c0da640929a24c83cbca3"
+  integrity sha512-QpgqWi8rD9DsS9EP3z7BT+5lY5SFhsqGjpgW5DY/i3mK4M9DTBNz3ErMi8BWYEfI3L0d8GIbGmcdFAS1uIRGjA==
 
 qrcode@1.5.3:
   version "1.5.3"
