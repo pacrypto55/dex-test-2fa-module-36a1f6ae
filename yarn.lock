@@ -3932,9 +3932,9 @@
   integrity sha512-6nCUxBnGX0c6qfZW5MaF6/fmu5dHJDMiMPaioKHKs5mi5+8/FHQ7WGjgQIz1zxpmceMYfdIXkOaLYE+ejbuOtA==
 
 "@pacrypto55/privy-2fa@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@pacrypto55/privy-2fa/-/privy-2fa-1.0.0.tgz#db5bdb12b16b32f9757facde0c47c47050c7da54"
-  integrity sha512-JWOXZi5bXCROCqyhtfUikuXlrMSRygtiDVyijzP9GCBoCTIIohNULS87XYT+TAQmh+N7/3zPGpVM9A1AB1zoyQ==
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@pacrypto55/privy-2fa/-/privy-2fa-1.0.1.tgz#b29749a6920449a90a81bf1df24cc37177dab60b"
+  integrity sha512-QdfyAIzc/AgJcNewBZi16GPzpZTII+9cmNc/SstR5ahPp5HP2kUwSZ92g8NKafAUlaNbjjAvsInQG5S70Q02mQ==
 
 "@pacrypto55/privy-onramp@^1.0.0":
   version "1.0.0"
@@ -3942,9 +3942,9 @@
   integrity sha512-PGC/kh9Qwpo8oV2Hi5rCkurWbx7lVPhE8Wo/cx34U3zgZ7G1MjMNilc1W4jMNO2rXjkhoHQUY4Pkj93JFW6cwA==
 
 "@pacrypto55/wallet-menu@^1.0.0":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@pacrypto55/wallet-menu/-/wallet-menu-1.0.3.tgz#0944bde0ee64a8fb12b5d7b9b5346b1ba23b6839"
-  integrity sha512-O8lAv0UmLW1ajUnLOy97GkXWjAK+lyUtUM/YTwX40biey/8OjMNnlXah1lcqvt+waEdglj0UuSGwoptDT2v/9g==
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@pacrypto55/wallet-menu/-/wallet-menu-1.0.4.tgz#59acf9575260ac9f45a012474ab72712a70a3444"
+  integrity sha512-7DhnI5721SqUIAfKV+TmSWkqp0tFxiSt0Tm+ImpNxV9zJKL9V97WmJ9xpUgIiX3XgNR4LRWyzARKw2iKuBn4jA==
 
 "@particle-network/analytics@^1.0.1":
   version "1.0.2"
